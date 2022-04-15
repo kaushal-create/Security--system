@@ -2,7 +2,7 @@ import sys
 import cgi
 from Adafruit_IO import Client, Feed, Data
 Adafruit_IO_USERNAME = "rz_kaushal"
-Adafruit_IO_KEY = "aio_wSTe9034XyfRaH7IOc4pQxKa9bOx"
+Adafruit_IO_KEY = "aio_BfTw15kDFnrufh2cJ60rk5GiQlOy"
 aio = Client(Adafruit_IO_USERNAME,Adafruit_IO_KEY)
 
 message = sys.argv[1]
