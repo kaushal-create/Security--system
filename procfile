@@ -1,1 +1,2 @@
 worker: python app.py
+web heroku-php-apache2
