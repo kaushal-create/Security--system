@@ -1,2 +1,3 @@
+web: heroku-php-apache2
 worker: python app.py
-web heroku-php-apache2
+
