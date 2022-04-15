@@ -1,1 +1,1 @@
-
+Adafruit_IO==2.6.0
